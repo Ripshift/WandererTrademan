@@ -1,0 +1,9 @@
+_retired/
+.vscode/
+dist/
+tests/
+tools/
+trader_behaviourpack/
+trader_resourcepack/
+_config.yml
+*.bak
