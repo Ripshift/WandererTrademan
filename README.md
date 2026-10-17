@@ -8,19 +8,28 @@ title: Wanderer Trademan
 
 **A Minecraft Bedrock add-on that turns the Wandering Trader into a traveling merchant of themed bundles.**
 
-Forget the pufferfish and the random odds and ends. The Wanderer now sells **33 themed bundles** — curated collections of flowers, saplings, building blocks, biome goodies and rare collectibles, each packed into a colored bundle and filled with its contents when you buy it.
+Forget the pufferfish and the random odds and ends. The Wanderer now sells **35 themed bundles** — curated collections of flowers, saplings, building blocks, biome goodies and rare collectibles, each packed into a colored bundle and filled with its contents when you buy it.
 
 ## ⬇️ Download
 
-**[Download WandererTrademan.mcaddon (v1.3.1)](WandererTrademan.mcaddon)**
+**[Download WandererTrademan.mcaddon (v1.4.0)](WandererTrademan.mcaddon)**
 
 Open the file on a device with Minecraft Bedrock Edition installed and it imports automatically.
 
 ### 🔷 Variant: Lapis Trader
 
-**[Download WandererTrademan_LapisTrader.mcaddon (v1.3.1)](WandererTrademan_LapisTrader.mcaddon)**
+**[Download WandererTrademan_LapisTrader.mcaddon (v1.4.0)](WandererTrademan_LapisTrader.mcaddon)**
 
 The same bundles and pools, but the Wanderer wants **Lapis Blocks instead of emeralds**, at roughly a quarter of the price (see the table column below). It has no buy-back trade. Use **either** the standard pack **or** the Lapis Trader pack in a world, not both.
+
+## 🍂 What's new: The Poplar Update (v1.4.0)
+
+Made for Minecraft Bedrock **26.50: Wilderness Bound**.
+
+- **Dappled Forest Bundle** (Biome) — poplar saplings, logs and all three autumn leaf colors, shelf mushrooms, red shrubs, leaf litter and coarse dirt.
+- **Campsite Bundle** (Curio) — a campfire, straw beds, random cushions, hay bales and a hot meal for the night.
+- Poplar joins the **Arborist's Sampler**, the **Wood Sampler** and the Traveler's Treasure Pack's sapling pool.
+- Since this add-on removes the Wanderer's vanilla trades, his new shelf mushrooms and poplar saplings now come from these bundles.
 
 ## 📦 Installing
 
@@ -49,7 +58,7 @@ Plants, saplings and flowers.
 | **Wildflower Bundle** | 4 | 1 | Dandelion, Poppy, Cornflower, Oxeye Daisy, Azure Bluet, Allium, Lily of the Valley, Pink Petals ×4 |
 | **Cherry Grove Bundle** | 9 | 2 | Cherry Sapling ×4, Pink Petals ×8, Moss Block ×8, 5% chance of Bee Nest |
 | **Seeds of the World Bundle** | 6 | 2 | Wheat Seeds, Beetroot Seeds, Carrot, Potato, Melon Seeds, Pumpkin Seeds, Torchflower Seeds, Pitcher Pod |
-| **Arborist's Sampler** | 10 | 3 | Oak Sapling, Spruce Sapling, Birch Sapling, Jungle Sapling, Acacia Sapling, Dark Oak Sapling, Cherry Sapling, Pale Oak Sapling, Mangrove Propagule, Azalea, Flowering Azalea |
+| **Arborist's Sampler** | 10 | 3 | Oak Sapling, Spruce Sapling, Birch Sapling, Jungle Sapling, Acacia Sapling, Dark Oak Sapling, Cherry Sapling, Pale Oak Sapling, Mangrove Propagule, Azalea, Flowering Azalea, Poplar Sapling |
 | **Florist's Delivery** | 7 | 2 | Sunflower ×2, Lilac ×2, Rose Bush ×2, Peony ×2, Pitcher Plant, Torchflower ×2, Spore Blossom |
 | **Lush Cave Bundle** | 9 | 2 | Glow Berries ×8, Moss Block ×8, Spore Blossom ×2, Azalea ×2, Big Dripleaf ×2, Small Dripleaf ×2, Clay Ball ×8, Hanging Roots ×4 |
 | **Pale Garden Bundle** | 12 | 3 | Pale Moss Block ×8, Pale Moss Carpet ×8, Pale Hanging Moss ×4, Pale Oak Sapling ×2, Open Eyeblossom, Closed Eyeblossom |
@@ -65,6 +74,7 @@ A taste of a faraway biome.
 | **Ocean Explorer Bundle** | 11 | 3 | Sea Pickle ×4, Kelp ×16, Tube Coral Fan, Brain Coral Fan, Bubble Coral Fan, Fire Coral Fan, Horn Coral Fan, Prismarine ×8, 10% chance of Nautilus Shell |
 | **Mesa Prospector Bundle** | 11 | 3 | Red Sand ×8, 4 random terracotta, Rail ×8, Powered Rail ×2, Oak Fence ×4, Torch ×4, Cobweb ×2, Raw Gold ×3, Gold Nugget ×6, Dead Bush ×2 |
 | **Mangrove Swamp Bundle** | 8 | 2 | Mangrove Propagule ×4, Mangrove Log ×4, Mangrove Roots ×4, Muddy Mangrove Roots ×4, Mud ×8, Packed Mud ×4, Vine ×4, Moss Carpet ×4, Lily Pad ×4 |
+| **Dappled Forest Bundle** | 10 | 3 | Poplar Sapling ×3, Red Poplar Leaves ×4, Orange Poplar Leaves ×4, Yellow Poplar Leaves ×4, Poplar Log ×8, Shelf Mushroom ×3, Red Shrub ×3, Leaf Litter ×8, Coarse Dirt ×8, Brown Mushroom ×2 |
 | **Dripstone Cave Bundle** | 9 | 2 | Dripstone Block ×8, Pointed Dripstone ×8, Copper Ore ×3, Raw Copper ×6, Raw Copper Block, Clay Block ×4 |
 | **Frostbound Bundle** | 9 | 2 | Ice ×8, Packed Ice ×4, Blue Ice ×2, Snowball ×4, Sweet Berries ×4, Spruce Sapling ×2 |
 | **Mushroom Isle Bundle** | 8 | 2 | Red Mushroom ×4, Brown Mushroom ×4, Mycelium ×8, Mushroom Stem ×4, Red Mushroom Block ×4, Brown Mushroom Block ×4 |
@@ -79,7 +89,7 @@ Sample packs and palettes for builders.
 | **Dyer's Pot** | 8 | 2 | One of each of the 16 dyes |
 | **Glass Gallery** | 5 | 1 | 2 of every stained glass color + 2 clear glass |
 | **Concrete Mix** | 5 | 1 | 2 of every concrete color |
-| **Wood Sampler** | 5 | 1 | 4 planks of every wood type (12 types) |
+| **Wood Sampler** | 5 | 1 | 4 planks of every wood type (13 types, including poplar) |
 | **Copper Collection** | 8 | 2 | 2 each of all 16 copper blocks, cut copper and waxed versions |
 | **Lamplighter's Satchel** | 10 | 3 | Lantern ×4, Soul Lantern ×2, Sea Lantern ×2, Shroomlight ×2, and 4 random candles |
 
@@ -88,6 +98,7 @@ Odd collections from the Nether, the End and beyond.
 
 | Bundle | Cost (emeralds) | Lapis Trader cost (Lapis Blocks) | Contents |
 |---|---|---|---|
+| **Campsite Bundle** | 9 | 2 | Campfire, Torch ×4, Straw Bed ×3, 2 random cushions, Hay Bale ×2, Cooked Beef ×2, Baked Potato ×2 |
 | **Witch's Bag** | 10 | 3 | Spider Eye ×2, Nether Wart ×4, Glowstone Dust ×4, Redstone ×4, Sugar ×4, Gunpowder ×2, Glass Bottle ×3, Red Mushroom ×2, Brown Mushroom ×2 |
 | **Nether Tourist Bundle** | 12 | 3 | Crimson Fungus ×2, Warped Fungus ×2, Weeping Vines ×4, Twisting Vines ×4, Shroomlight ×2, Glowstone ×4, Basalt ×8, Blackstone ×8 |
 | **End Souvenir Bundle** | 13 | 3 | Chorus Fruit ×4, End Stone ×8, Purpur Block ×8, End Rod ×4, Chorus Flower |
@@ -108,10 +119,6 @@ Rare finds. The Archaeologist's Satchel is the usual offer; about 2% of the time
 
 - This add-on **replaces** the Wandering Trader's trade table. Other add-ons that change those trades will conflict with it.
 - The bundles are filled by a script (the Script API, `@minecraft/server` 2.10.0), because Bedrock's `fill_container` loot function crashes when used on bundles.
-
-## 🛠️ Customizing
-
-All bundles live in one file, `server_behaviourpack/scripts/bundles.js`: names, colors, prices, contents and which pool each belongs to. After editing it, regenerate the trade table with `node tools/build_trades.mjs`.
 
 ## Credits & links
 
